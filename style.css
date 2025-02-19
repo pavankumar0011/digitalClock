@@ -1,0 +1,11 @@
+#div2{
+    height: 40rem;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgba(250, 58, 4,0.6);
+
+}
